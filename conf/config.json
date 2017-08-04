@@ -1,0 +1,26 @@
+{
+  "firebase" : {
+    "apiKey": "AIzaSyB5BvNR7PFd8kumT6ThLk1Xf_Z6ILVLW4I",
+    "authDomain": "fyp-app-65941.firebaseapp.com",
+    "databaseURL": "https://fyp-app-65941.firebaseio.com",
+    "storageBucket": "fyp-app-65941.appspot.com"
+  },
+  "serviceAccount" : {
+    "type": "service_account",
+    "project_id": "fyp-app-65941",
+    "private_key_id": "c01054ececb60393a42e9ea4dd1451db33084aae",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCqgH+jFnfT1bOP\nHdwD1PKJmvdtfwKhRmS8m/8H6ZO/E1AjgvgsDKGkTvKGk+NEXYqhzR28l0nPAnDK\nCYr2zwI766JcF26sbp8S53qESwZbTTMHuLu+CNg9ckLYUbRVj7Pg+cbDMT1q7Ixk\nkG3D9OvO51hJEn9Sj4u/MRiMexOYn4G+7A+BUzaklt5HOtPaBeJ5PbhpP1n4NBWU\nZdk0G2xhW+bz/14Xpkqkp8XqA0gZuT1Bh2OJxxaG56k8xgEfSH5BO5HQHS44MUqN\nMcFlm5goY3r24qetaKGqHbfkhDSa14mHtMck9enqZMFdT4euwe2blCcyUNEzZwJt\ngLwEUW1ZAgMBAAECggEABA+leqP5XLFVYo5KhEjZMg/f3trMnDzJ/3gTvgOBQmba\nXM4szRfL7db3jd8N5b34pFv3XluYJXcgap+JkNFjczvslRb1yuOjpFahI2+KCjiv\ng3qR9jfNtsD2+KIRkowms7AfXNzaYqaZvXd3NdiqmTYHc04efD/xCy/HLulrkRIJ\njxMXiTgP1C0VCrYXtQulSeHzSEbMFsKbQXmbVALrXhIgwjy6bYZIJrQ6l2ze3F7s\n8kwezRE4PvtDWezJGpiWqxbEPRkts+0E1cIHq+LNTQi0yzVwlIBOiMek0jrFADsP\nAfEBsgWH6Lt48trWmaSJSmCy/ONxEGow7E/b/DZZkQKBgQDjaA0yZrJGOLVyz403\nt7MAMAXGQf7CwXmH7WzJlTyUjdin96L1vCXmSoMczAQebIOYGi79oJCU0KOsbbW9\n/xkRllqWjRSArIW7gUQdJKImT/an2PhYnrCCSU+50fdVBGtZwl1GQje1OdiVnqfw\nXtAv1rTykJazHd1709ZdGNSKtQKBgQC/8MHmZqAcf2kshr5u2R9/eRENLPqq90/J\n03BRxjBzoBmo3kUCzTMJ0+5UOST/0VLy2hdwYEWLBt5rJfWwnQmpZkGvrmJAzFSt\n6iq+A+PEMvNUsFOhOtpkaCfDtct7jJKv2lTGan7qBxNbahEhe7WQrw/aVje/UTC/\nbMQR1E8qlQKBgDkMbGsdelHFfjecO+gjbIN6iKhQ/BFtqghglq8HglgeMaEJrdcJ\n6VQZk0TRJaNgQ68PuoQkGMFMihMCvto4OdjAqF8ma2NQZIhCiIzrGMaVvuIiu0K4\nJL26mIacVvj8D9ZHvVCX4hPTvDLkx2q0znOB4IkNntC2iE69OQTH6uIVAoGAUsia\nOK9Gm0Pwrr2m4NRQm4Ax9IbTzm1AQoIpTXu3ZgdFSeojxaOPQcvgXP8QkC1OI2Qg\n+9zp4Z6iy3/hybzRb/ikmAsUYXI/i4sVyEKROAvpmzs5tq5VhzzM+cIs8yqcEbCP\nI8zG1FUc6i6DGPfsRWzb34WUIbX42nck0bPKOUkCgYAEV5CdFrNyuNCDb8oGjbbn\nRSYBNmyuN6G11zkSDfWTl793789BX1Xu8GOVn7fnIwaUxwLczIjSnqXEXBDiVvsV\nD6+IsXS+gPNjMf9R/H4b0HouNvlJ5kLn417k8oNczj/g5bjcbVLhF0SdsgGKq6WA\n7BuTZMoz6tGcLqr6kL84YQ==\n-----END PRIVATE KEY-----\n",
+    "client_email": "hungwoc@fyp-app-65941.iam.gserviceaccount.com",
+    "client_id": "113372714873259434996",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://accounts.google.com/o/oauth2/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hungwoc%40fyp-app-65941.iam.gserviceaccount.com"
+  },
+  "db_option" : {
+    "host": "sql12.freemysqlhosting.net",
+    "user": "sql12187946",
+    "password": "Xb1j9ACArT",
+    "database": "sql12187946"
+  }
+}

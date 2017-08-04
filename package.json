@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "fyp-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "Wong Yat Yu (167240049)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.4",
+    "cryptlib": "^1.0.3",
+    "express": "^4.15.2",
+    "firebase": "^3.9.0",
+    "firebase-admin": "^5.1.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "mysql": "^2.14.0",
+    "node-datetime": "^1.0.0"
+  }
+}
